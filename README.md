@@ -62,7 +62,7 @@ git@github.com:David-Verde/Hello-Rails-Webapp.git
   ```
   - Clone with HTTPS
   ```
-https://github.com/David-Verde/Hello-Rails-Webapp.git
+https://github.com/David-Verde/Budget-App.git
   ```
 
 * In the project directory, you can run:
